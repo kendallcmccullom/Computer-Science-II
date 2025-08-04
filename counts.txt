@@ -1,0 +1,54 @@
+Here are the wordcounts for all the words in Dr. Seuss' Green Eggs and Ham:
+
+i	85
+am	16
+sam	19
+that	 3
+do	37
+not	84
+like	44
+you	34
+green	11
+eggs	11
+and	25
+ham	11
+them	61
+would	26
+here	11
+or	 8
+there	 9
+anywhere	 8
+in	40
+a	59
+house	 8
+with	19
+mouse	 8
+eat	25
+box	 7
+fox	 7
+could	14
+car	 7
+they	 2
+are	 2
+may	 4
+will	21
+see	 4
+tree	 6
+let	 4
+me	 4
+be	 4
+train	 9
+on	 7
+say	 5
+the	11
+dark	 7
+rain	 4
+goat	 4
+boat	 3
+so	 5
+try	 4
+if	 1
+good	 2
+thank	 2
+
+Total Word Count: 812
